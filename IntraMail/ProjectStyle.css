@@ -1,0 +1,64 @@
+﻿body {
+    background: #b2d9c6;
+}
+
+table {
+    background: #abc4ab;
+    font-size: 50px;
+    text-align: center;
+}
+
+td, th {
+    text-align: left;
+    font: bold;
+    font-size: medium;
+    color: black;
+}
+
+.gmail {
+    text-align: left;
+    font: bold;
+    font-size: large;
+}
+
+.inbox {
+    color: #404b5d;
+    text-align: center;
+    font: bold;
+    font-size: large;
+}
+
+.hyperlink {
+    color: #404b5d;
+    text-align: left;
+    font: bold;
+    font-size: medium;
+    text-decoration: underline;
+}
+
+.button {
+    background: #d3b4ab;
+    color: black;
+    font: bold;
+    align-items: center;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.gridView {
+    background: #e1e6be;
+    color: black;
+    font: bold;
+    align-items: center;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.mails {
+    background: #613a35;
+    color: black;
+    font: bold;
+    align-items: center;
+    font-size: medium;
+    font-weight: bold;
+}
